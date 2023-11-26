@@ -1,0 +1,12 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# v1-Model-related
+checkpoint
+model.ckpt.*
+*.ckpt
+*.meta
+*.index
