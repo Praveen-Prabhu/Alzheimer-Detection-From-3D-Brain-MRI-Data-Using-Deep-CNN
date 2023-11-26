@@ -1,0 +1,66 @@
+Epoch 1 completed out of 50 loss: 313772237.65625
+Accuracy: 0.6419752836227417
+Epoch 2 completed out of 50 loss: 78513618.640625
+Accuracy: 0.6296296119689941
+Epoch 3 completed out of 50 loss: 28782619.098388672
+Accuracy: 0.5432098507881165
+Epoch 4 completed out of 50 loss: 21487438.873535156
+Accuracy: 0.5308641791343689
+Epoch 5 completed out of 50 loss: 12580563.171875
+Accuracy: 0.45679011940956116
+Epoch 6 completed out of 50 loss: 8446049.504196167
+Accuracy: 0.6419752836227417
+Epoch 7 completed out of 50 loss: 6405435.128417969
+Accuracy: 0.6172839403152466
+Epoch 8 completed out of 50 loss: 5778001.007080078
+Accuracy: 0.6419752836227417
+Epoch 9 completed out of 50 loss: 4220356.393798828
+Accuracy: 0.6172839403152466
+Epoch 10 completed out of 50 loss: 3142060.9279785156
+Accuracy: 0.6790123581886292
+Epoch 11 completed out of 50 loss: 2345500.4467773438
+Accuracy: 0.6419752836227417
+Epoch 12 completed out of 50 loss: 2571823.256063094
+Accuracy: 0.5802469253540039
+Epoch 13 completed out of 50 loss: 1857663.5521240234
+Accuracy: 0.5555555820465088
+Epoch 14 completed out of 50 loss: 1747078.5737304688
+Accuracy: 0.6419752836227417
+Epoch 15 completed out of 50 loss: 1552115.615060091
+Accuracy: 0.5679012537002563
+Epoch 16 completed out of 50 loss: 1197869.5905151367
+Accuracy: 0.4938271641731262
+Epoch 17 completed out of 50 loss: 866004.679360047
+Accuracy: 0.6913580298423767
+Epoch 18 completed out of 50 loss: 644160.8745117188
+Accuracy: 0.5925925970077515
+Epoch 19 completed out of 50 loss: 603237.1750202235
+Accuracy: 0.654321014881134
+Epoch 20 completed out of 50 loss: 528731.4013671875
+Accuracy: 0.6172839403152466
+Epoch 21 completed out of 50 loss: 436421.68505859375
+Accuracy: 0.5432098507881165
+Epoch 22 completed out of 50 loss: 414885.8687889576
+Accuracy: 0.5802469253540039
+Epoch 23 completed out of 50 loss: 316963.12580156326
+Accuracy: 0.6790123581886292
+Epoch 24 completed out of 50 loss: 184015.13062322023
+Accuracy: 0.5679012537002563
+Epoch 25 completed out of 50 loss: 116678.65806305408
+Accuracy: 0.654321014881134
+Epoch 26 completed out of 50 loss: 71797.42805457115
+Accuracy: 0.6666666865348816
+Epoch 27 completed out of 50 loss: 45712.788982844286
+Accuracy: 0.6296296119689941
+Epoch 28 completed out of 50 loss: 20772.896840266152
+Accuracy: 0.6172839403152466
+Epoch 29 completed out of 50 loss: 10486.076816858505
+Accuracy: 0.4938271641731262
+Epoch 30 completed out of 50 loss: 7025.192304470199
+Accuracy: 0.5308641791343689
+Epoch 31 completed out of 50 loss: 5872.135009359761
+Accuracy: 0.604938268661499
+Epoch 32 completed out of 50 loss: 3819.2043948632167
+Accuracy: 0.6172839403152466
+Epoch 33 completed out of 50 loss: 775.6838211959357
+Accuracy: 0.6172839403152466
